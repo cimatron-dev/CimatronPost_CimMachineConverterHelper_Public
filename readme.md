@@ -1,1 +1,1 @@
-# Cim Machine Converter Public Repo
+# Cimatron Machine Converter Public Repo
